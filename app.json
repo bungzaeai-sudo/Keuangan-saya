@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Keuangan Saya",
+    "slug": "keuangan-saya",
+    "version": "0.2.0",
+    "orientation": "portrait",
+    "scheme": "keuangansaya",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "plugins": [
+      "expo-router",
+      "expo-sqlite"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.keuangansaya.app"
+    },
+    "android": {
+      "package": "com.keuangansaya.app"
+    }
+  }
+}
